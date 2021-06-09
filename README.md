@@ -42,6 +42,8 @@ PESQ, STOI, SI-SDR on DEMAND - Voice Bank test dataset, for reference only:
 - Python==3.\*.\*
 - torch==1.\*
 - librosa==0.7.0
+- numba==0.48
+- json5==0.9.5
 - tensorboard
 - pesq
 - pystoi
